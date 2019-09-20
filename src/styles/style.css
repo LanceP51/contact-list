@@ -1,0 +1,15 @@
+.eachContactsDiv{
+    border: 2px solid black;
+    width: auto
+}
+#contactContainer{
+    display: flex;
+    flex-wrap: wrap;
+}
+.eachContactsDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 2em;
+    margin: 2em;
+}
